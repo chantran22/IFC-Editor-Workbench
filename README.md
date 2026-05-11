@@ -80,3 +80,5 @@ IFC_CodeEditor/
 ├── examples/         # runnable demo scripts
 └── resources/        # icons
 ```
+## Picture demo
+<img width="770" height="321" alt="image" src="https://github.com/user-attachments/assets/1243bec7-6571-4691-884f-ede22c10d3aa" />
