@@ -1,6 +1,7 @@
 # IFC Code Editor Workbench for FreeCAD
 
 Write `ifcopenshell` Python scripts and see the 3D result live in FreeCAD's viewport.
+This workbench was built-up by Claude AI's support
 
 ## Install
 
