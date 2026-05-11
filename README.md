@@ -82,3 +82,5 @@ IFC_CodeEditor/
 ```
 ## Picture demo
 <img width="770" height="321" alt="image" src="https://github.com/user-attachments/assets/1243bec7-6571-4691-884f-ede22c10d3aa" />
+
+export to *.ifc  or upload 3dviewer.net can see & retract info of IFC model.
