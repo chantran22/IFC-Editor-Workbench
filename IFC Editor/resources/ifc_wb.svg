@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- background -->
+  <rect width="64" height="64" rx="8" fill="#1a237e"/>
+  <!-- code brackets -->
+  <text x="4" y="28" font-family="Consolas,monospace" font-size="20" fill="#4fc3f7" font-weight="bold">&lt;/&gt;</text>
+  <!-- IFC label -->
+  <text x="6" y="52" font-family="Arial,sans-serif" font-size="16" fill="#ffffff" font-weight="bold">IFC</text>
+  <!-- small cube hint -->
+  <polygon points="48,20 58,25 58,38 48,43 38,38 38,25" fill="none" stroke="#80cbc4" stroke-width="1.5"/>
+  <line x1="48" y1="20" x2="48" y2="43" stroke="#80cbc4" stroke-width="1"/>
+  <line x1="38" y1="25" x2="58" y2="25" stroke="#80cbc4" stroke-width="1"/>
+</svg>
